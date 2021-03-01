@@ -1,0 +1,11 @@
+[33mcommit 378dc69e7b98bb45e776677dbbfaefea66a60aed[m[33m ([m[1;36mHEAD -> [m[1;32mPolina[m[33m)[m
+Author: Polina Honcharko <Polina.Honcharko@3shape.com>
+Date:   Sat Feb 27 15:09:31 2021 +0200
+
+    changed Hello message
+
+[33mcommit 9aa7f41dea53eb1d365d2252a7283f5893591df5[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Mykhailo Aksani <mykhailo.aksani@imperva.com>
+Date:   Sat Feb 27 12:26:44 2021 +0100
+
+    init project
